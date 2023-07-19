@@ -15,5 +15,4 @@ jobs:
       - name: Run a command
         run: |
           echo "Hello, this is a command executed from GitHub Actions!"
-          # Add your own commands here
-          ls -a 
+          ls -a
