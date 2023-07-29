@@ -20,4 +20,4 @@ jobs:
         # Replace the following command with the actual command to run your script
         ./generate_CD_service.sh
 
-    # systemctl status CD
+    
