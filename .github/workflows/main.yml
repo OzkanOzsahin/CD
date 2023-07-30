@@ -32,3 +32,4 @@ jobs:
               cd /home/CD
               git pull origin main
               systemctl restart --now CD
+              systemctl status CD
