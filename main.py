@@ -7,6 +7,5 @@ app = Flask (__name__)
 def index():
     return b'Hello, world, i am getting lost!'
 
-app.run(port=80)
 
 
