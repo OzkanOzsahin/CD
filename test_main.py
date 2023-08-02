@@ -12,4 +12,4 @@ def test_index(client):
     response = client.get("/")
 
     assert response.status_code == 200
-    assert response.data == b"Hello, am i finished!"
+    assert response.data == b"Hello, am i finished! I hope so"
